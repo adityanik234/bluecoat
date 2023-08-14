@@ -1,0 +1,8 @@
+{
+
+  "temperature": 27,
+  "airflow": 14.7,
+  "sound": 60,
+  "humidity": 36,
+  "string": "Hello World"
+}
