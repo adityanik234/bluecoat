@@ -1,25 +1,25 @@
 {
   "room1": [{
     "temperature": [27,25, 26, 24, 25, 27],
-    "airflow": 14.7,
-    "sound": 60,
-    "humidity": 36,
+    "airflow": [14.7, 14.0, 14.3, 14.3, 14.8, 14.9],
+    "sound": [60, 65, 70, 66, 69, 55],
+    "humidity": [36, 36, 35, 36, 37, 38],
     "time": ["00:00", "04:00", "08:00", "12:00", "16:00", "20:00"],
     "string": "Brief description about room 1"
   }],
   "room2": [{
     "temperature": [27,25, 26, 24, 25, 27],
-    "airflow": 15.7,
-    "sound": 45,
-    "humidity": 35,
+    "airflow": [14.7, 14.0, 14.3, 14.3, 14.8, 14.9],
+    "sound": [45, 44, 46, 49, 45, 45],
+    "humidity": [36, 36, 35, 36, 37, 38],
     "time": ["00:00", "04:00", "08:00", "12:00", "16:00", "20:00"],
     "string": "Brief description about room 2"
   }],
   "room3": [{
     "temperature": [27,25, 26, 24, 25, 27],
-    "airflow": 13.7,
-    "sound": 44,
-    "humidity": 36,
+    "airflow": [14.7, 14.0, 14.3, 14.3, 14.8, 14.9],
+    "sound": [50, 55, 56, 56, 57, 57],
+    "humidity": [36, 36, 35, 36, 37, 38],
     "time": ["00:00", "04:00", "08:00", "12:00", "16:00", "20:00"],
     "string": "Brief description about room 3"
   }]
