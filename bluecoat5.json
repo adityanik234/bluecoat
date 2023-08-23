@@ -7,18 +7,20 @@
     "time": ["00:00", "04:00", "08:00", "12:00", "16:00", "20:00"],
     "string": "Brief description about room 1"
   }],
-  "room2": {
-    "temperature": 28,
+  "room2": [{
+    "temperature": [27,25, 26, 24, 25, 27],
     "airflow": 15.7,
     "sound": 45,
     "humidity": 35,
+    "time": ["00:00", "04:00", "08:00", "12:00", "16:00", "20:00"],
     "string": "Brief description about room 2"
-  },
-  "room3": {
-    "temperature": 29,
+  }],
+  "room3": [{
+    "temperature": [27,25, 26, 24, 25, 27],
     "airflow": 13.7,
     "sound": 44,
     "humidity": 36,
+    "time": ["00:00", "04:00", "08:00", "12:00", "16:00", "20:00"],
     "string": "Brief description about room 3"
-  }
+  }]
 }
